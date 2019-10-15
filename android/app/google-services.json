@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116492273682",
+    "firebase_url": "https://changeapp-e214c.firebaseio.com",
+    "project_id": "changeapp-e214c",
+    "storage_bucket": "changeapp-e214c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116492273682:android:dba78b9fce755d6d",
+        "android_client_info": {
+          "package_name": "com.getchange.wallet.cordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116492273682-va7ta2sr1a52ftujuj21eipq1vjlc9sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJxIzhiB4xs9BDIlY8QTMOqwCJefv4_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
